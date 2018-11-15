@@ -1,11 +1,11 @@
 # test
 
 > A Vue.js project
->一直想找一个多页面打包的模板，但是网上找到的多页面模板，要么是最终打包到一个模块中，要么就是分类打包，但是对首页没有打包
+#一直想找一个多页面打包的模板，但是网上找到的多页面模板，要么是最终打包到一个模块中，要么就是分类打包，但是对首页没有打包
 此框架集合了上述两种，模块分类打包，首页主页面也会单独打包出来
->主页访问地址http://localhost:8088/
->子页面访问 http://localhost:8088/page1/index.html
->子页面访问 http://localhost:8088/page2/index.html
+#主页访问地址http://localhost:8088/
+#子页面访问 http://localhost:8088/page1/index.html
+#子页面访问 http://localhost:8088/page2/index.html
 
 
 ## Build Setup
